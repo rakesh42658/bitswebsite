@@ -1,0 +1,43 @@
+body{
+    background-image: url(pen1.jpeg);
+    background-repeat: no-repeat;
+    background-size: 1890px 980px;
+}
+form{
+    border: solid 1px black hidden;
+    width:500px;
+    padding-left: 10px;
+    margin-left: 100px;
+}
+h1{
+    color: aqua;
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+}
+label{
+    color: blue;
+    font-size: 22px;
+    font-weight: bold;
+}
+input{
+    height: 26px;
+    width: 350px;
+    border-radius: 20px;
+}
+textarea{
+    width: 350px;
+}
+button{
+    height: 50px;
+    width: 150px;
+    background-color: green;
+    font-size: 22px;
+    color: black;
+    font-weight: bold;
+    border-radius: 20px;
+    border-color: black;
+}
+button:hover{
+    background-color: red;
+}
